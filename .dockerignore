@@ -1,0 +1,8 @@
+node_modules
+.git
+
+# Stores Webstorm
+.idea
+
+# Stores macOS
+.DS_Store
